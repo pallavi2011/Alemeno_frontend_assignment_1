@@ -1,0 +1,141 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "../../../public/assets/react-native.png",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": "['Basic JavaScript knowledge', 'Familiarity with React']",
+      "likes": 10,
+      "progress": 60,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Beginner to React JS",
+      "instructor": "Sara Smith",
+      "description": "Learn the basics of React Js development and build your first mobile app.",
+      "enrollmentStatus": "in-progress",
+      "thumbnail": "../../assets/python-img.png",
+      "duration": "3 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": "['Basic JavaScript knowledge', 'Familiarity with React']",
+      "likes": 5,
+      "progress": 100,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Advanced Nodejs",
+      "instructor": "John Doe",
+      "description": "Learn the basics of Nodejs development and build your first backend app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "../../../public/assets/next-img.png",
+      "duration": "4 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": "['Basic JavaScript knowledge', 'Familiarity with React']",
+      "likes": 34,
+      "progress": 100,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Introduction to web development for beginner and intermediate",
+      "instructor": "ABC",
+      "description": "Learn the basics of web development and build your first web app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "../../../public/assets/Java-Logo.png",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Offline",
+      "prerequisites": "['Basic JavaScript knowledge', 'Familiarity with React']",
+      "likes": 34,
+      "progress": 10,
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        },
+        {
+          "week": 3,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 103,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        }
+      ]
+    }
+  ]
+}
